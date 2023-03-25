@@ -1,0 +1,59 @@
+﻿version 4.00
+cm_version 1.0
+platform CM-530
+o // param_text:Created : 3 / 16 / 2023
+- 
+o main
+o begin
+o while(1)
+o begin
+o if param_src:cm:4 lop:== param_src:button_num:4 rop:then
+o begin
+o load param_dest:motion:-:50 param_src:?
+o end
+o end
+o end
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
